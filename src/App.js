@@ -10,7 +10,7 @@ function App() {
     loadFull(main);
   }, []);
 
-  const grupo15 = ['Tobi', 'Lou', 'Luciano', 'Lucas', 'Camila', 'David'];
+  const grupo15 = ['Tobias', 'Lou', 'Luciano', 'Lucas', 'Camila', 'David'];
 
   return (
     <div className="App">
